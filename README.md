@@ -3,7 +3,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KazJunior&show_icons=true&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KazJunior&theme=tokyo-night" alt="Gráfico de Atividade no GitHub" />
 </div>
 
 ---
